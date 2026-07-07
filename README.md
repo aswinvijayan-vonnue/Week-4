@@ -1,15 +1,22 @@
 # Code Environment setup
  ## 1. Install Required VS Code Extensions
  Open VS Code and install the following extensions:
+
   **ESLint**
 
   Extension ID:
-  ```dbaeumer.vscode-eslint```
+  ```
+  dbaeumer.vscode-eslint
+
+  ```
 
 **Prettier - Code Formatter**
 
 Extension ID:
-```esbenp.prettier-vscode```
+```
+esbenp.prettier-vscode
+
+```
 
 After installation,restart VS Code
 
