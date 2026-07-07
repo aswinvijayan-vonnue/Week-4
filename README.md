@@ -7,7 +7,6 @@
   Extension ID:
   ```
   dbaeumer.vscode-eslint
-
   ```
 
 **Prettier - Code Formatter**
@@ -15,7 +14,6 @@
 Extension ID:
 ```
 esbenp.prettier-vscode
-
 ```
 
 After installation,restart VS Code
