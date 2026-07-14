@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.chart-container{
+    background-color: rgb(223, 226, 228);
+    min-width: 900px;
+    min-height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toolTip{
+    width: 30px;
+    position: absolute;
+    padding: 5px;
+    color: rgb(223, 226, 228);
+    display: none;
+    background-color: black;
+
+}
+button{
+    position: absolute;
+    bottom: 40px;
+}
