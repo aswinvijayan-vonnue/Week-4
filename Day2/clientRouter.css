@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+section {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 42px;
+    color: blue;
+    font-weight: 600;
+}
+p {
+    font-size: 24px;
+    color: red;
+}
+nav {
+    display: flex;
+    gap: 10px;
+    font-size: 24px;
+    justify-content: center;
+}
+.active{
+    display: flex;
+
+}
+.active-nav{
+    color: brown;
+}
+.breadCrumb ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-size: 22px;
+}
