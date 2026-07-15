@@ -1,0 +1,22 @@
+{
+    "name":"Team page",
+    "short_name": "team",
+    "description": "View all the team members",
+    "start_url": "/team.html",
+    "display": "standalone",
+    "theme-color": "#000000",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src":"./assets/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src":"./assets/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+
+        }
+    ]
+}
